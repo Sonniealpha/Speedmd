@@ -70,7 +70,7 @@ ______________________________________
 ║❒ *Repo:* _https://github.com/Speedmd_
 ║❒ *WaGroup:* _https://whatsapp.com/channel/Bw2m61sYFUyB5Zp1h8DznX_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vah7UNT6BIEIZKwvzY43_
-║❒ *Plugins:* _https://github.com/Beltahmd_
+║❒ *Plugins:* _https://github.com/speedmd_
 ╚════════════════════════╝
 _____________________________________
 
