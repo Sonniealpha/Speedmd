@@ -56,20 +56,20 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Wasi_Tech.sendMessage(Pair_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 
                let WASI_MD_TEXT = `
-*_Pair Code Connected by BELTAH TECH_*
-*_Made on earth by Beltah tech team_*
+*_Pair Code Connected by ALPHA TECH_*
+*_Made on earth by Alpha tech team_*
 ______________________________________
 ╔════◇
-║ *『THANKS FOR CHOOSING BELTAH TECH BOT』*
+║ *『THANKS FOR CHOOSING ALPHA TECH BOT』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *CONTACT:* _HTTPS://WA.ME/254737681758_
-║❒ *DEVELOPER:* _https://wa.me/message/254114141192_
-║❒ *Repo:* _https://github.com/Beltahmd_
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_
+║❒ *CONTACT:* _HTTPS://WA.ME/254769702239_
+║❒ *DEVELOPER:* _https://wa.me/message/254796266758_
+║❒ *Repo:* _https://github.com/Speedmd_
+║❒ *WaGroup:* _https://whatsapp.com/channel/Bw2m61sYFUyB5Zp1h8DznX_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vah7UNT6BIEIZKwvzY43_
 ║❒ *Plugins:* _https://github.com/Beltahmd_
 ╚════════════════════════╝
 _____________________________________
