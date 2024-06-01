@@ -59,20 +59,20 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Beltah Tech_*
-*_Made With Beltah Tech Team_*
+*_Session Connected By Alpha Tech_*
+*_Made With Alpha Tech Team_*
 ______________________________________
 ╔════◇
-║ *『THANK YOU FOR CHOOSING BELTAH BOT』*
+║ *『THANK YOU FOR CHOOSING Speed BOT』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *CONTACT:* _HTTPS://WA.ME/254737681758_
-║❒ *DEVELOPER:* _https://wa.me/message/254114141192_
-║❒ *REPO:* _https://github.com/Beltahmd_
-║❒ *WAGROUP:* _https://chat.whatsapp.com/FF6YuOZTJAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_
+║❒ *CONTACT:* _HTTPS://WA.ME/254769702239_
+║❒ *DEVELOPER:* _https://wa.me/message/254796266758_
+║❒ *REPO:* _https://github.com/speedmd_
+║❒ *WAGROUP:* _https://chat.whatsapp.com/Bw2m61sYFUyB5Zp1h8DznX_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vah7UNT6BIEIZKwvzY43_
 ║❒ *Plugins:* _https://github.com/Itxxwasi 
 ╚════════════════════════╝
 _____________________________________
